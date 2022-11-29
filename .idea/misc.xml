@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/PSLticketbookingapp/PSLticketbookingapp/app/src/main/res/drawable/ic_baseline_person_outline_24.xml" value="0.2203125" />
+        <entry key="..\:/PSLticketbookingapp/PSLticketbookingapp/app/src/main/res/drawable/loginbutton.xml" value="0.2203125" />
+        <entry key="..\:/PSLticketbookingapp/PSLticketbookingapp/app/src/main/res/drawable/splashbackground.xml" value="0.21296296296296297" />
+        <entry key="..\:/PSLticketbookingapp/PSLticketbookingapp/app/src/main/res/layout/Paymentmethods.xml" value="0.20416666666666666" />
+        <entry key="..\:/PSLticketbookingapp/PSLticketbookingapp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/PSLticketbookingapp/PSLticketbookingapp/app/src/main/res/layout/bookingform.xml" value="0.25" />
+        <entry key="..\:/PSLticketbookingapp/PSLticketbookingapp/app/src/main/res/layout/home_page.xml" value="0.18" />
+        <entry key="..\:/PSLticketbookingapp/PSLticketbookingapp/app/src/main/res/layout/itemslist.xml" value="0.20416666666666666" />
+        <entry key="..\:/PSLticketbookingapp/PSLticketbookingapp/app/src/main/res/layout/listview.xml" value="0.2" />
+        <entry key="..\:/PSLticketbookingapp/PSLticketbookingapp/app/src/main/res/layout/login_activity.xml" value="0.25" />
+        <entry key="..\:/PSLticketbookingapp/PSLticketbookingapp/app/src/main/res/layout/spinner_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/PSLticketbookingapp/PSLticketbookingapp/app/src/main/res/layout/spinnet_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/PSLticketbookingapp/PSLticketbookingapp/app/src/main/res/layout/splashscreen.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

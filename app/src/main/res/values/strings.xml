@@ -1,0 +1,10 @@
+<resources>
+    <string name="Payment_methods">PSLticketbookingapp</string>
+        <string-array name="payment_method">
+        <item>EasyPaisa</item>
+            <item>Jazz Cash</item>
+            <item>HBL</item>
+            <item>MCB Bank</item>
+            <item>Askari Bank</item>
+        </string-array>
+</resources>
